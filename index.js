@@ -1,1 +1,0 @@
-window.location.replace("http://www.volatiledoor6.au");
