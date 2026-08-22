@@ -1,0 +1,10 @@
+# Robots.txt file for www.volatiledoor6.au v1.00
+
+User-agent: *
+Allow: /home
+Allow: /contact-me
+Allow: /photography/albury-station
+Allow: /photography/vline
+Allow: /photography/melbourne-victoria
+Allow: /photography/metro-trains-Melbourne
+Allow: /photography/nsw-xpt
